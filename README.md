@@ -53,7 +53,7 @@ I want YOUR SUPPORT to make this REPOSITORY available to every single person who
   - [Apache Spark - The Ultimate Guide](https://youtu.be/FNJze2Ea780?si=HwzmT4OQVEzlIdQX)
 
 - **PySpark Full Course - The Coding Paradigm**
-  - [PySpark Zero To Hero](https://youtu.be/94w6hPk7nkM?si=9sZY48n9ujAtD6oy)
+  - [PySpark Zero To Hero](https://youtu.be/94w6hPk7nkM?si=9sZY48n9ujAtD6oy) [DONE]
 
 - **PySpark Real-Time Scenarios**
   - [PySpark Scenarios For Data Engineers](https://youtu.be/-Gvnm9eS8v8?si=xRpuCZ5cGHuDH4ko)

@@ -47,16 +47,16 @@ I want YOUR SUPPORT to make this REPOSITORY available to every single person who
 ## Module 3: Master Big Data With Apache Spark
 
 - **Big Data Engineering Fundamentals**
-  - [Fundamentals of Big Data Engineering](https://youtu.be/H5SHmiKTFsM?si=mEsFSnE5nX2uuD_5) [DONE]
+  - [Fundamentals of Big Data Engineering](https://youtu.be/H5SHmiKTFsM?si=mEsFSnE5nX2uuD_5) **[DONE]**
 
 - **Apache Spark For Big Data**
   - [Apache Spark - The Ultimate Guide](https://youtu.be/FNJze2Ea780?si=HwzmT4OQVEzlIdQX)
 
 - **PySpark Full Course - The Coding Paradigm**
-  - [PySpark Zero To Hero](https://youtu.be/94w6hPk7nkM?si=9sZY48n9ujAtD6oy) [DONE]
+  - [PySpark Zero To Hero](https://youtu.be/94w6hPk7nkM?si=9sZY48n9ujAtD6oy) **[DONE]**
 
 - **PySpark Real-Time Scenarios**
-  - [PySpark Scenarios For Data Engineers](https://youtu.be/-Gvnm9eS8v8?si=xRpuCZ5cGHuDH4ko)[DONE]
+  - [PySpark Scenarios For Data Engineers](https://youtu.be/-Gvnm9eS8v8?si=xRpuCZ5cGHuDH4ko)**[In Progress]**
 
 
 ## Module 4: Git and GitHub - Bread and Butter for Data Engineers

@@ -50,7 +50,7 @@ I want YOUR SUPPORT to make this REPOSITORY available to every single person who
   - [Fundamentals of Big Data Engineering](https://youtu.be/H5SHmiKTFsM?si=mEsFSnE5nX2uuD_5) **[DONE]**
 
 - **Apache Spark For Big Data**
-  - [Apache Spark - The Ultimate Guide](https://youtu.be/FNJze2Ea780?si=HwzmT4OQVEzlIdQX) **[IN PROGRESS] 1:01:38**
+  - [Apache Spark - The Ultimate Guide](https://youtu.be/FNJze2Ea780?si=HwzmT4OQVEzlIdQX) **[IN PROGRESS] 1:42:03**
 
 - **PySpark Full Course - The Coding Paradigm**
   - [PySpark Zero To Hero](https://youtu.be/94w6hPk7nkM?si=9sZY48n9ujAtD6oy) **[DONE]**
